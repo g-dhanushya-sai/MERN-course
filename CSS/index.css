@@ -1,0 +1,17 @@
+.wrapper{
+    color: blue;
+    font-size: 50px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+    font-style: italic;
+
+}
+
+.text{
+    background-color: rgba(127, 255, 212, 0.436);
+    color: red;
+    text-align: center;
+    text-decoration: dotted underline pink;
+    text-transform: capitalize;
+    text-shadow: 2px 4px 3px black;
+
+}
