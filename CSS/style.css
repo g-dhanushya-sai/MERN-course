@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikqbTMo3P5kiotyeIet06J3tmIhFfggpERh3BnCmJiufe8SPlCo_P0pMA&s=10);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+input[type="checkbox"]{
+    cursor: pointer;
+}
+
+h1{
+    font-size: 50px;
+}
+.container{
+    padding: 90px;
+    background-color: rgba(240, 248, 255, 0.27);
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 10px;
+    align-items: center;
+}
+.LoginDetails{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+.other{
+    display: flex;
+    flex-direction: row;
+    gap: 90px;
+}
+
+.fp{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+
+
+input[type = "text"], input[type="password"]{
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+input[type="submit"]{
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+    background: linear-gradient(rgb(243, 252, 87),rgb(236, 109, 130));
+    cursor: pointer;
+}
