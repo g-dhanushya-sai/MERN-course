@@ -10,3 +10,12 @@ TRANSFORMATION
     1. 2D - x,y
     2. 3D - x,y,z
 
+
+JAVASCRIPT
+    1. programming language
+
+    HIGH LEVEL PL, LOW LEVEL PL
+
+    Low level - assembly language (01100101)binary language
+
+    high level - (if, for, a=10 etc)
